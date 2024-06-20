@@ -61,4 +61,4 @@ mybatis-plus:
     db-config:
       id-type: ASSIGN_ID
 reggie:
-  path: E:\BaiduNetdiskDownload\黑马程序员资料\Java企业级项目 瑞吉外卖（视频+讲义+源码+笔记+资料）\06、代码资料\项目课程\资料\图片资源\
+  path: /usr/local/img/
